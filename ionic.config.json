@@ -1,0 +1,8 @@
+{
+  "name": "Simples Atos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5d26e804"
+}
